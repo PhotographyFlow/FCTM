@@ -2,9 +2,8 @@
 
 * [上传指南说明](README.md)
 * [我们是如何审核一张图片的](Screener.md)
-* 信息填写（施工中）
 * [接受的构图种类](composition.md)
-* 拒图理由解析
+* [拒图理由](reject/info.md)
     * [曝光](reject/expose.md)
     * [对比度](reject/contrast.md)
     * [光线](reject/light.md)

@@ -1,8 +1,13 @@
 {
-	"plugins":["alerts","hide-element","-lunr","-search","search-pro"],
+	"plugins":["insert-logo","alerts","hide-element","expandable-chapters","-lunr","-search","search-pro","custom-favicon"],
 	"pluginsConfig":{
 		"hide-element":{
 			"elements":[".gitbook-link"]
-		}
+		},
+		"favicon": "icon/favicon.ico",
+		"insert-logo": {
+			"url": "https://source.cdn.794td.cn/TOGA/logo.jpg",
+			"style": "background: none; width:100%; height:auto; filter:brightness(0);"
+		  }
 	}
 }

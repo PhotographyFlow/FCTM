@@ -5,19 +5,19 @@
 在隔着玻璃拍摄的时候尤其需要注意这个问题。
 
 #### 偏蓝
-![](https://source.794td.cn/TOGA/guideline/image034.jpg)
+![](https://source.cdn.794td.cn/TOGA/guideline/image034.jpg)
 
 #### 偏黄
-![](https://source.794td.cn/TOGA/guideline/image035.jpg)
+![](https://source.cdn.794td.cn/TOGA/guideline/image035.jpg)
 
 #### 偏红
-![](https://source.794td.cn/TOGA/guideline/image036.jpg)
+![](https://source.cdn.794td.cn/TOGA/guideline/image036.jpg)
 
 #### 偏绿
-![](https://source.794td.cn/TOGA/guideline/image037.jpg)
+![](https://source.cdn.794td.cn/TOGA/guideline/image037.jpg)
 
 ## 饱和度
 #### 过高
-![](https://source.794td.cn/TOGA/guideline/image038.jpg)
+![](https://source.cdn.794td.cn/TOGA/guideline/image038.jpg)
 #### 过低
-![](https://source.794td.cn/TOGA/guideline/image039.jpg)
+![](https://source.cdn.794td.cn/TOGA/guideline/image039.jpg)

@@ -1,6 +1,6 @@
 ## 热浪
 热浪通常是因为飞机距离相机过远，飞机APU排除的废弃、尾流或者其他与环境温度不符的热源导致这中间的空气密度并不相同。有热浪的照片能够看出飞机上的线条，字等产生了扭曲，导致看不清楚。
 通常来说遇到热浪问题可以尝试压缩到更小大小的图片去进行尝试。但严重的地热一般是没有合适的后期处理方案的。
-![](https://source.794td.cn/TOGA/guideline/image059.jpg)
+![](https://source.cdn.794td.cn/TOGA/guideline/image059.jpg)
 注意看机体上的字和线条
-![](https://source.794td.cn/TOGA/guideline/image060.png)
+![](https://source.cdn.794td.cn/TOGA/guideline/image060.png)
