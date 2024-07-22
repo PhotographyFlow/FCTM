@@ -5,11 +5,14 @@
 
 ![](https://source.cdn.794td.cn/TOGA/guideline/image028.jpg)
 ![](https://source.cdn.794td.cn/TOGA/guideline/image029.jpg)
-## “顶光”/逆光
+## 顶光/逆光
 
 这两类情况也会导致被拒光线不佳。
 
 ![](https://source.cdn.794td.cn/TOGA/guideline/image030.jpg)
->**[info] 窗户和尾翼是否有光是重要的判断标准**
+
+::: info :information_source:
+窗户和尾翼是否有光是重要的判断标准。
+:::
 
 ![](https://source.cdn.794td.cn/TOGA/guideline/image031.jpg)
