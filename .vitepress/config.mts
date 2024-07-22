@@ -3,13 +3,13 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "TOGAPhotos上传指南",
-  // description: "TOGAPhotos上传指南",
   themeConfig: {
     footer: {
       message: "Built with VitePress",
       copyright: "Copyright © 2023-present TOGAPhotos",
     },
     nav: [
+      { text: "图库", link: "https://togaphotos.com" },
       { text: "Blog", link: "https://blog.togaphotos.com" }
     ],
 
