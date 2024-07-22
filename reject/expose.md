@@ -1,6 +1,9 @@
 ## 欠曝
 欠曝的直接体现就是照片整体显得比较暗，这通常是由于较弱的光线环境或相机错误的曝光设置所致。您可以通过在后期处理软件中提高曝光或亮度。
->**[danger] 过度的在后期软件中调整曝光可能会产生噪点过大的问题**
+
+::: warning :warning:
+过度的在后期软件中调整曝光可能会产生噪点过大的问题。
+:::
 
 ![](https://source.794td.cn/TOGA/guideline/image020.jpg)
 ![](https://source.794td.cn/TOGA/guideline/image021.jpg)
