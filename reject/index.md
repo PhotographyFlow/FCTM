@@ -15,6 +15,6 @@
 - [机身反光](./reflect.md)
 - [前景杂乱](./mess.md)
 - [遮挡](./occlusion.md)
-- [违规内容](./Illegalcontent.md)
+- [违规内容](./illegal-content.md)
 - [错误信息](./badinfo.md)
 - [JPEG压缩/过度处理](./jpeg.md)
