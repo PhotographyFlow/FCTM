@@ -1,6 +1,6 @@
 # TO/GA Photos 接受的构图
 
-### 常规
+## 常规
 #### 整机
 ![](https://source.cdn.794td.cn/TOGA/guideline/image002.jpg)
 
@@ -12,7 +12,9 @@
 
 #### 直升机
 ![](https://source.cdn.794td.cn/TOGA/guideline/image017.jpg)
->**[info] 对旋翼的合理裁切是可以被接受的**
+::: info :information_source:
+对旋翼的合理裁切是可以被接受的
+:::
 
 ## 特写
 #### 机头
