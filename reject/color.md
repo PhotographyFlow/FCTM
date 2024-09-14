@@ -1,8 +1,11 @@
 ## 色彩不佳
 您的照片有强烈的色偏，使得照片看起来偏红/蓝/黄等。 
+::: warning :warning:
+在隔着玻璃拍摄的时候尤其需要注意此问题。
+:::
+::: info :information_source:
 色彩不佳的问题通常可以使用后期处理软件进行处理。
-
-在隔着玻璃拍摄的时候尤其需要注意这个问题。
+:::
 
 #### 偏蓝
 ![](https://source.cdn.794td.cn/TOGA/guideline/image034.jpg)

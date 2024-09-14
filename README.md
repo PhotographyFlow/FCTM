@@ -6,7 +6,7 @@
 遵循本指南会让您的图片更加符合TO/GA Photos的标准，不代表图片一定能被接受。
 :::
 
-如果这本指南没有帮助到您，我们欢迎您向TO/GA Photos团队寻求帮助。
+如果此指南没有帮助到您，我们欢迎您向TO/GA Photos团队寻求帮助。
 
 邮箱地址： admin@togaphotos.com
 
