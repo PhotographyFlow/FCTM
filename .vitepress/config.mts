@@ -38,6 +38,7 @@ export default defineConfig({
           { text: "传感器/镜头脏点", link: "/reject/dusty" },
           { text: "曝光", link: "/reject/expose" },
           { text: "地平不正", link: "/reject/horizon" },
+          { text: "模糊", link: "/reject/blur" },
           { text: "热浪", link: "/reject/hotwave" },
           { text: "违规内容", link: "/reject/illegal-content" },
           { text: "JPEG压缩/过度处理", link: "/reject/jpeg" },

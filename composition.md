@@ -11,10 +11,10 @@
 ![](https://source.cdn.794td.cn/TOGA/guideline/image005.jpg)
 
 #### 直升机
-![](https://source.cdn.794td.cn/TOGA/guideline/image017.jpg)
 ::: info :information_source:
 对旋翼的合理裁切是可以被接受的
 :::
+![](https://source.cdn.794td.cn/TOGA/guideline/image017.jpg)
 
 ## 特写
 #### 机头
@@ -50,7 +50,9 @@
 ![](https://source.cdn.794td.cn/TOGA/guideline/image016.jpg)
 
 ## 艺术构图
+:::warning :warning:
 此类构图在审核过程中主要参照审图员的**主观意见**，无固定标准。
+:::
 下方提供几种可能会被接受的例子，仅供参考。
 ![](https://source.cdn.794td.cn/TOGA/guideline/image018.jpg)
 ![](https://source.cdn.794td.cn/TOGA/guideline/image019.jpg)
