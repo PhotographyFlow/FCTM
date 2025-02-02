@@ -23,6 +23,7 @@ export default defineConfig({
         text: "图片上传",
         items: [
           { text: "接受的构图种类", link: "/composition" },
+          { text: "信息上传规则", link: "/info-fill" },
           { text: "违规内容", link: "/reject/illegal-content" },
         ],
       },
