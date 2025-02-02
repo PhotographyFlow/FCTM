@@ -12,6 +12,9 @@ features:
   - title: 接受的构图
     details: 查看TOGAPhotos接受的构图和对其进行的补充说明
     link: /composition
+  - title: 信息上传规则
+    details: 查看TOGAPhotos的信息上传规则
+    link: /info-fill
   - title: 拒图理由
     details: 我们会在这里说明各种拒图理由的原因
     link: /reject
