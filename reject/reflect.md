@@ -4,4 +4,5 @@
 尽量尝试更多角度的拍摄能够有效的避免此类问题的发生。
 :::
 ![](https://source.794td.cn/TOGA/guideline/image065.jpg)
+
 ![](https://source.794td.cn/TOGA/guideline/image066.jpg)

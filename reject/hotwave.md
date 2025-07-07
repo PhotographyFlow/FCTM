@@ -4,5 +4,7 @@
 通常来说遇到热浪问题可以尝试压缩到更小大小的图片去进行尝试。但严重的地热一般是没有合适的后期处理方案。
 :::
 ![](https://source.cdn.794td.cn/TOGA/guideline/image059.jpg)
-注意看机体上的字和线条
+
+注意机体上的字和线条
+
 ![](https://source.cdn.794td.cn/TOGA/guideline/image060.png)

@@ -7,5 +7,6 @@
 如果没有查找脏点工具时，可以通过拉满去朦胧，清晰度，对比度，并适当调整曝光，来寻找脏点。
 :::
 ![](https://source.794td.cn/TOGA/guideline/image061.png)
+
 ![](https://source.794td.cn/TOGA/guideline/image062.png)
 

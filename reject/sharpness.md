@@ -5,6 +5,7 @@
 可以在前期使用成像质量更高的设备或者缩小光圈进行拍摄。<br>或在后期使用图片编辑软件进行适当加锐即可。
 :::
 ![](https://source.794td.cn/TOGA/guideline/image044.jpg)
+
 ![](https://source.794td.cn/TOGA/guideline/image045.png)
 
 ## 过度锐化
@@ -13,4 +14,5 @@
 如果一张的照片如因为过度锐化被拒，减少锐化就可以解决这个问题。
 :::
 ![](https://source.794td.cn/TOGA/guideline/image046.jpg)
+
 ![](https://source.794td.cn/TOGA/guideline/image047.jpg)

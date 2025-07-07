@@ -25,6 +25,7 @@ export default defineConfig({
           { text: "接受的构图种类", link: "/composition" },
           { text: "信息上传规则", link: "/info-fill" },
           { text: "违规内容", link: "/reject/illegal-content" },
+          { text: "关于“云图”", link: "/steal" },
         ],
       },
       {
